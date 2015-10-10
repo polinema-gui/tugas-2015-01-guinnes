@@ -1,0 +1,10 @@
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\bin\Debug\TUGAS 2015-2 GUINNES.exe.config
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\bin\Debug\TUGAS 2015-2 GUINNES.exe
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\bin\Debug\TUGAS 2015-2 GUINNES.pdb
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\bin\Debug\TUGAS 2015-2 GUINNES.xml
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS_2015_2_GUINNES.Form1.resources
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS_2015_2_GUINNES.Resources.resources
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS 2015-2 GUINNES.vbproj.GenerateResource.Cache
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS 2015-2 GUINNES.exe
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS 2015-2 GUINNES.xml
+c:\users\dimas guinnes\documents\visual studio 2013\Projects\TUGAS 2015-2 GUINNES\TUGAS 2015-2 GUINNES\obj\Debug\TUGAS 2015-2 GUINNES.pdb
